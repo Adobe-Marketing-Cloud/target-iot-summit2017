@@ -13,7 +13,7 @@ An sample React app that uses `target-node-client` to showcase some of the IoT i
 
 1. Clone the repo
 ```bash
-git clone https://github.com/adobe-target/serverside-testing
+git clone https://github.com/Adobe-Marketing-Cloud/target-iot-summit2017
 ```
 
 2. Run the mock server
