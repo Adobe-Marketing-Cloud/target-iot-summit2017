@@ -1,0 +1,11 @@
+{
+    "host" : "mboxedge20.tt.omtrdc.net",
+    "client": "adobesummit021",
+    "secure": true,
+    "imsOrgId" : "A2E3847157207A807F000101@AdobeOrg",
+    "reportSuiteId": "<unknown>",
+    "trackingServer": "<unknown>",
+    "trackingServerSecure": "<unknown>",
+    "profileImages": {"ISPTGW5IMDXL4C63JLIGDQWFHPUIQDXLE6MZKAPJR6ACI3TIAQQVS6JWPG7RMHDS2LFRDOD6S62HTHH36JKCH3HZ4E3PM5FZ5FNPIFQ2BIIPWRNNNWFOPJ6FDTJJ4UDA":"daniel.png", "BNCSAW62TMRTDNCNKPXVXAICHGVZ36OFY2R7Q225W5JHYH6HGMAZQCNCXT3IUEZFNUUFTCURKJUI64DTF6HI6HL5NXBYTSVLJ3DP66FX5WK4QDWHLM6YKWN7RV36RUIA" : "nipun.png",
+"name":"adobeTarget.png"}
+}
